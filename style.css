@@ -5,3 +5,13 @@ h1{
     margin-top: 0px;
     margin-bottom: 1px;
 }
+
+li {
+    display: inline-block;
+    overflow: hidden;
+    background-color: lightgreen;
+    text-align: center;
+    font-size: 16px;
+    padding: 8px;
+    margin: auto 8px;
+}
